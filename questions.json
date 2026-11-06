@@ -1,0 +1,5384 @@
+[
+  {
+    "id": "g1_001",
+    "target": "XAVIER",
+    "text": "英文單字「Elephant」是指什麼動物？",
+    "options": [
+      "大象",
+      "獅子",
+      "老虎",
+      "長頸鹿"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_002",
+    "target": "XAVIER",
+    "text": "英文單字「Yellow」是指什麼顏色？",
+    "options": [
+      "黃色",
+      "藍色",
+      "紅色",
+      "綠色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_003",
+    "target": "XAVIER",
+    "text": "幾何圖形中，有三個邊和三個角的形狀是什麼？",
+    "options": [
+      "三角形",
+      "正方形",
+      "圓形",
+      "長方形"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學常識"
+  },
+  {
+    "id": "g1_004",
+    "target": "XAVIER",
+    "text": "注音符號「ㄈ」開頭的交通工具是哪個？",
+    "options": [
+      "飛機",
+      "汽車",
+      "火車",
+      "輪船"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_005",
+    "target": "XAVIER",
+    "text": "小明有 8 顆糖果，吃了 3 顆，還剩下幾顆？",
+    "options": [
+      "5顆",
+      "4顆",
+      "6顆",
+      "3顆"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學應用"
+  },
+  {
+    "id": "g1_006",
+    "target": "XAVIER",
+    "text": "過馬路時，行人號誌燈顯示什麼顏色才可以通行？",
+    "options": [
+      "綠燈 (小綠人)",
+      "紅燈",
+      "黃燈",
+      "紫燈"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活安全"
+  },
+  {
+    "id": "g1_007",
+    "target": "XAVIER",
+    "text": "英文單字「School」是指什麼地方？",
+    "options": [
+      "學校",
+      "公園",
+      "超市",
+      "動物園"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_008",
+    "target": "XAVIER",
+    "text": "「高」的反義字（相反字）是什麼？",
+    "options": [
+      "矮",
+      "長",
+      "大",
+      "多"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_009",
+    "target": "XAVIER",
+    "text": "英文單字「Rabbit」是指哪種動物？",
+    "options": [
+      "兔子",
+      "貓咪",
+      "小狗",
+      "小鳥"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_010",
+    "target": "XAVIER",
+    "text": "吃飯前最重要的衛生好習慣是什麼？",
+    "options": [
+      "洗手",
+      "跑步",
+      "看電視",
+      "唱歌"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活常識"
+  },
+  {
+    "id": "g1_011",
+    "target": "XAVIER",
+    "text": "英文單字「Monkey」是指什麼動物？",
+    "options": [
+      "猴子",
+      "熊貓",
+      "松鼠",
+      "袋鼠"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_012",
+    "target": "XAVIER",
+    "text": "「大」的反義字是什麼？",
+    "options": [
+      "小",
+      "少",
+      "低",
+      "短"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_013",
+    "target": "XAVIER",
+    "text": "一星期有多少天？",
+    "options": [
+      "7天",
+      "5天",
+      "6天",
+      "10天"
+    ],
+    "correctIndex": 0,
+    "category": "小一常識"
+  },
+  {
+    "id": "g1_014",
+    "target": "XAVIER",
+    "text": "英文單字「Green」是指什麼顏色？",
+    "options": [
+      "綠色",
+      "紅色",
+      "黃色",
+      "黑色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_015",
+    "target": "XAVIER",
+    "text": "注音符號「ㄅ」開頭的動物是哪個？",
+    "options": [
+      "斑馬",
+      "大象",
+      "獅子",
+      "青蛙"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_016",
+    "target": "XAVIER",
+    "text": "英文單字「Milk」是指什麼飲料？",
+    "options": [
+      "牛奶",
+      "果汁",
+      "汽水",
+      "開水"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_017",
+    "target": "XAVIER",
+    "text": "有四條邊而且四個角都是直角的圖形是什麼？",
+    "options": [
+      "正方形或長方形",
+      "圓形",
+      "三角形",
+      "梯形"
+    ],
+    "correctIndex": 0,
+    "category": "小一幾何"
+  },
+  {
+    "id": "g1_018",
+    "target": "XAVIER",
+    "text": "英文單字「Bird」是指什麼？",
+    "options": [
+      "小鳥",
+      "烏龜",
+      "青蛙",
+      "金魚"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_019",
+    "target": "XAVIER",
+    "text": "「多」的反義字是什麼？",
+    "options": [
+      "少",
+      "小",
+      "無",
+      "低"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_020",
+    "target": "XAVIER",
+    "text": "時鐘上的長針指著 12，短針指著 3，請問是幾點鐘？",
+    "options": [
+      "3點鐘",
+      "12點鐘",
+      "6點鐘",
+      "9點鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小一時間認知"
+  },
+  {
+    "id": "g1_021",
+    "target": "XAVIER",
+    "text": "英文單字「Teacher」是指什麼職業？",
+    "options": [
+      "老師",
+      "學生",
+      "醫生",
+      "警察"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_022",
+    "target": "XAVIER",
+    "text": "「上」的反義字是什麼？",
+    "options": [
+      "下",
+      "後",
+      "右",
+      "底"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_023",
+    "target": "XAVIER",
+    "text": "英文單字「Fish」是指什麼動物？",
+    "options": [
+      "魚",
+      "蝦",
+      "螃蟹",
+      "海豚"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_024",
+    "target": "XAVIER",
+    "text": "一年當中有幾個月份？",
+    "options": [
+      "12個",
+      "10個",
+      "7個",
+      "365個"
+    ],
+    "correctIndex": 0,
+    "category": "小一常識"
+  },
+  {
+    "id": "g1_025",
+    "target": "XAVIER",
+    "text": "英文單字「Book」是指什麼東西？",
+    "options": [
+      "書本",
+      "鉛筆",
+      "桌子",
+      "書包"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_026",
+    "target": "XAVIER",
+    "text": "彩虹通常包含多少種顏色？",
+    "options": [
+      "7種",
+      "5種",
+      "6種",
+      "8種"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然常識"
+  },
+  {
+    "id": "g1_027",
+    "target": "XAVIER",
+    "text": "英文單字「Orange」可以代表什麼水果？",
+    "options": [
+      "橘子/柳橙",
+      "蘋果",
+      "西瓜",
+      "香蕉"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_028",
+    "target": "XAVIER",
+    "text": "注音符號「ㄇ」開頭的動物是哪個？",
+    "options": [
+      "貓咪",
+      "狗鉤",
+      "老鼠",
+      "兔子"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_029",
+    "target": "XAVIER",
+    "text": "小華有 10 元，買了 4 元的鉛筆，還剩多少元？",
+    "options": [
+      "6元",
+      "5元",
+      "4元",
+      "7元"
+    ],
+    "correctIndex": 0,
+    "category": "小一金錢應用"
+  },
+  {
+    "id": "g1_030",
+    "target": "XAVIER",
+    "text": "英文單字「Water」是什麼意思？",
+    "options": [
+      "水",
+      "果汁",
+      "牛奶",
+      "湯"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_031",
+    "target": "XAVIER",
+    "text": "「左」的反義字是什麼？",
+    "options": [
+      "右",
+      "前",
+      "後",
+      "東"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_032",
+    "target": "XAVIER",
+    "text": "英文單字「Duck」是指哪種動物？",
+    "options": [
+      "鴨子",
+      "小雞",
+      "鵝",
+      "天鵝"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_033",
+    "target": "XAVIER",
+    "text": "下列哪一個器官是用來聽聲音的？",
+    "options": [
+      "耳朵",
+      "眼睛",
+      "鼻子",
+      "嘴巴"
+    ],
+    "correctIndex": 0,
+    "category": "小一身體常識"
+  },
+  {
+    "id": "g1_034",
+    "target": "XAVIER",
+    "text": "英文單字「Bear」是指什麼動物？",
+    "options": [
+      "熊",
+      "獅子",
+      "老虎",
+      "狼"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_035",
+    "target": "XAVIER",
+    "text": "一年當中的四季包含春、夏、秋與什麼？",
+    "options": [
+      "冬",
+      "風",
+      "雨",
+      "雪"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然"
+  },
+  {
+    "id": "g1_036",
+    "target": "XAVIER",
+    "text": "英文單字「Eye」是指身體的哪個部位？",
+    "options": [
+      "眼睛",
+      "耳朵",
+      "鼻子",
+      "嘴巴"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_037",
+    "target": "XAVIER",
+    "text": "「長」的反義字是什麼？",
+    "options": [
+      "短",
+      "小",
+      "矮",
+      "低"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_038",
+    "target": "XAVIER",
+    "text": "英文單字「Pink」是指什麼顏色？",
+    "options": [
+      "粉紅色",
+      "紫色",
+      "藍色",
+      "黑色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_039",
+    "target": "XAVIER",
+    "text": "注音符號「ㄊ」開頭的動物是哪一個？",
+    "options": [
+      "兔子",
+      "袋鼠",
+      "熊貓",
+      "松鼠"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_040",
+    "target": "XAVIER",
+    "text": "英文單字「Hand」是指什麼部位？",
+    "options": [
+      "手",
+      "腳",
+      "頭",
+      "肩膀"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_041",
+    "target": "XAVIER",
+    "text": "小美排隊排在第 3 個，後面還有 2 個人，整隊共有幾個人？",
+    "options": [
+      "5個人",
+      "4個人",
+      "6個人",
+      "3個人"
+    ],
+    "correctIndex": 0,
+    "category": "小一排隊應用"
+  },
+  {
+    "id": "g1_042",
+    "target": "XAVIER",
+    "text": "英文單字「Blue」是指什麼顏色？",
+    "options": [
+      "藍色",
+      "紅色",
+      "綠色",
+      "黃色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_043",
+    "target": "XAVIER",
+    "text": "「前」的反義字是什麼？",
+    "options": [
+      "後",
+      "下",
+      "右",
+      "旁"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_044",
+    "target": "XAVIER",
+    "text": "英文單字「Tiger」是指什麼動物？",
+    "options": [
+      "老虎",
+      "獅子",
+      "豹",
+      "狼"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_045",
+    "target": "XAVIER",
+    "text": "晚上睡覺前最重要的衛生習慣是什麼？",
+    "options": [
+      "刷牙",
+      "吃零食",
+      "大聲唱歌",
+      "跑步"
+    ],
+    "correctIndex": 0,
+    "category": "小一衛生習慣"
+  },
+  {
+    "id": "g1_046",
+    "target": "XAVIER",
+    "text": "英文單字「Star」是指夜空中閃爍的什麼？",
+    "options": [
+      "星星",
+      "月亮",
+      "太陽",
+      "雲朵"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_047",
+    "target": "XAVIER",
+    "text": "圓形的形狀有邊和角嗎？",
+    "options": [
+      "沒有邊和角",
+      "有3個角",
+      "有4個邊",
+      "有2個邊"
+    ],
+    "correctIndex": 0,
+    "category": "小一幾何"
+  },
+  {
+    "id": "g1_048",
+    "target": "XAVIER",
+    "text": "英文單字「Frog」是指哪種兩棲動物？",
+    "options": [
+      "青蛙",
+      "烏龜",
+      "蜥蜴",
+      "蛇"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_049",
+    "target": "XAVIER",
+    "text": "「開」的反義字是什麼？",
+    "options": [
+      "關",
+      "合",
+      "停",
+      "斷"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_050",
+    "target": "XAVIER",
+    "text": "英文單字「Apple」是什麼意思？",
+    "options": [
+      "蘋果",
+      "香蕉",
+      "西瓜",
+      "葡萄"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_051",
+    "target": "XAVIER",
+    "text": "注音符號「ㄆ」開頭的動物是哪一個？",
+    "options": [
+      "螃蟹",
+      "老鷹",
+      "青蛙",
+      "小狗"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_052",
+    "target": "XAVIER",
+    "text": "打噴嚏或咳嗽時，最正確的禮貌動作是什麼？",
+    "options": [
+      "用手臂或面紙遮住口鼻",
+      "大聲笑出來",
+      "對著別人噴",
+      "張大嘴巴"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活常識"
+  },
+  {
+    "id": "g1_053",
+    "target": "XAVIER",
+    "text": "「新」的反義字是什麼？",
+    "options": [
+      "舊",
+      "大",
+      "壞",
+      "慢"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_054",
+    "target": "XAVIER",
+    "text": "時鐘上的長針指著 6，短針指在 4 與 5 之間，請問是幾點半？",
+    "options": [
+      "4點半",
+      "5點半",
+      "6點半",
+      "3點半"
+    ],
+    "correctIndex": 0,
+    "category": "小一時間"
+  },
+  {
+    "id": "g1_055",
+    "target": "XAVIER",
+    "text": "英文單字「Red」是指什麼顏色？",
+    "options": [
+      "紅色",
+      "黃色",
+      "藍色",
+      "黑色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_056",
+    "target": "XAVIER",
+    "text": "下列哪一種動物是在水裡用鰓呼吸的？",
+    "options": [
+      "金魚",
+      "小狗",
+      "小貓",
+      "麻雀"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然"
+  },
+  {
+    "id": "g1_057",
+    "target": "XAVIER",
+    "text": "英文單字「Banana」是什麼水果？",
+    "options": [
+      "香蕉",
+      "蘋果",
+      "西瓜",
+      "草莓"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_058",
+    "target": "XAVIER",
+    "text": "「黑」的反義字是什麼？",
+    "options": [
+      "白",
+      "紅",
+      "綠",
+      "藍"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_059",
+    "target": "XAVIER",
+    "text": "英文單字「Cat」是指什麼動物？",
+    "options": [
+      "貓咪",
+      "小狗",
+      "兔子",
+      "老虎"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_060",
+    "target": "XAVIER",
+    "text": "注音符號「ㄌ」開頭的水果是哪一個？",
+    "options": [
+      "蓮霧",
+      "西瓜",
+      "香蕉",
+      "芭樂"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_061",
+    "target": "XAVIER",
+    "text": "「快」的反義字是什麼？",
+    "options": [
+      "慢",
+      "高",
+      "遠",
+      "重"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_062",
+    "target": "XAVIER",
+    "text": "英文單字「Dog」是指什麼動物？",
+    "options": [
+      "小狗",
+      "小貓",
+      "豬",
+      "羊"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_063",
+    "target": "XAVIER",
+    "text": "時鐘上的長針指著 12，短針指著 7，請問是幾點鐘？",
+    "options": [
+      "7點鐘",
+      "12點鐘",
+      "6點鐘",
+      "5點鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小一時間"
+  },
+  {
+    "id": "g1_064",
+    "target": "XAVIER",
+    "text": "英文單字「Sun」是指天空中的什麼？",
+    "options": [
+      "太陽",
+      "月亮",
+      "星星",
+      "雲"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_065",
+    "target": "XAVIER",
+    "text": "下列哪一個器官是用來看東西的？",
+    "options": [
+      "眼睛",
+      "耳朵",
+      "鼻子",
+      "嘴巴"
+    ],
+    "correctIndex": 0,
+    "category": "小一身體常識"
+  },
+  {
+    "id": "g1_066",
+    "target": "XAVIER",
+    "text": "英文單字「Moon」是指什麼？",
+    "options": [
+      "月亮",
+      "太陽",
+      "星星",
+      "彩虹"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_067",
+    "target": "XAVIER",
+    "text": "「重」的反義字是什麼？",
+    "options": [
+      "輕",
+      "小",
+      "短",
+      "低"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_068",
+    "target": "XAVIER",
+    "text": "注音符號「ㄕ」開頭的食物是哪個？",
+    "options": [
+      "西瓜",
+      "蘋果",
+      "壽司",
+      "香蕉"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_069",
+    "target": "XAVIER",
+    "text": "英文單字「Door」是指什麼家具設施？",
+    "options": [
+      "門",
+      "窗戶",
+      "桌子",
+      "椅子"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_070",
+    "target": "XAVIER",
+    "text": "小華排隊排在第 2 個，後面還有 4 個人，整隊共有幾個人？",
+    "options": [
+      "6個人",
+      "5個人",
+      "7個人",
+      "4個人"
+    ],
+    "correctIndex": 0,
+    "category": "小一排隊應用"
+  },
+  {
+    "id": "g1_071",
+    "target": "XAVIER",
+    "text": "英文單字「Chair」是指什麼？",
+    "options": [
+      "椅子",
+      "桌子",
+      "床",
+      "沙發"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_072",
+    "target": "XAVIER",
+    "text": "「熱」的反義字是什麼？",
+    "options": [
+      "冷",
+      "溫",
+      "涼",
+      "濕"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_073",
+    "target": "XAVIER",
+    "text": "英文單字「Table」是指什麼？",
+    "options": [
+      "桌子",
+      "椅子",
+      "櫃子",
+      "門"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_074",
+    "target": "XAVIER",
+    "text": "注音符號「ㄏ」開頭的動物是哪個？",
+    "options": [
+      "河馬",
+      "大象",
+      "獅子",
+      "長頸鹿"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_075",
+    "target": "XAVIER",
+    "text": "英文單字「Nose」是指身體的哪個部位？",
+    "options": [
+      "鼻子",
+      "眼睛",
+      "耳朵",
+      "嘴巴"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_076",
+    "target": "XAVIER",
+    "text": "下列哪種動物會飛？",
+    "options": [
+      "小鳥",
+      "小狗",
+      "小貓",
+      "烏龜"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然"
+  },
+  {
+    "id": "g1_077",
+    "target": "XAVIER",
+    "text": "英文單字「Mouth」是指身體的哪個部位？",
+    "options": [
+      "嘴巴",
+      "鼻子",
+      "眼睛",
+      "耳朵"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_078",
+    "target": "XAVIER",
+    "text": "「遠」的反義字是什麼？",
+    "options": [
+      "近",
+      "低",
+      "矮",
+      "短"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_079",
+    "target": "XAVIER",
+    "text": "英文單字「Ear」是指身體的哪個部位？",
+    "options": [
+      "耳朵",
+      "眼睛",
+      "鼻子",
+      "手"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_080",
+    "target": "XAVIER",
+    "text": "注音符號「ㄍ」開頭的動物是哪個？",
+    "options": [
+      "狗",
+      "貓",
+      "鳥",
+      "魚"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_081",
+    "target": "XAVIER",
+    "text": "英文單字「Boy」是指什麼？",
+    "options": [
+      "男孩",
+      "女孩",
+      "男人",
+      "女人"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_082",
+    "target": "XAVIER",
+    "text": "「甜」的反義字是什麼？",
+    "options": [
+      "苦",
+      "辣",
+      "鹹",
+      "酸"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_083",
+    "target": "XAVIER",
+    "text": "英文單字「Girl」是指什麼？",
+    "options": [
+      "女孩",
+      "男孩",
+      "媽媽",
+      "爸爸"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_084",
+    "target": "XAVIER",
+    "text": "注音符號「ㄒ」開頭的水果是哪個？",
+    "options": [
+      "西瓜",
+      "蘋果",
+      "香蕉",
+      "橘子"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_085",
+    "target": "XAVIER",
+    "text": "英文單字「Car」是指什麼交通工具？",
+    "options": [
+      "汽車",
+      "公車",
+      "火車",
+      "飛機"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_086",
+    "target": "XAVIER",
+    "text": "「硬」的反義字是什麼？",
+    "options": [
+      "軟",
+      "輕",
+      "小",
+      "細"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_087",
+    "target": "XAVIER",
+    "text": "英文單字「Bus」是指什麼交通工具？",
+    "options": [
+      "公車",
+      "汽車",
+      "腳踏車",
+      "捷運"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_088",
+    "target": "XAVIER",
+    "text": "注音符號「ㄓ」開頭的動物是哪個？",
+    "options": [
+      "蜘蛛",
+      "螞蟻",
+      "蜜蜂",
+      "蝴蝶"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_089",
+    "target": "XAVIER",
+    "text": "英文單字「Bike」是指什麼交通工具？",
+    "options": [
+      "腳踏車",
+      "摩托車",
+      "汽車",
+      "公車"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_090",
+    "target": "XAVIER",
+    "text": "「粗」的反義字是什麼？",
+    "options": [
+      "細",
+      "小",
+      "短",
+      "薄"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_091",
+    "target": "XAVIER",
+    "text": "英文單字「Pen」是指什麼文具？",
+    "options": [
+      "原子筆",
+      "鉛筆",
+      "橡皮擦",
+      "尺"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_092",
+    "target": "XAVIER",
+    "text": "注音符號「ㄋ」開頭的飲品是哪個？",
+    "options": [
+      "牛奶",
+      "果汁",
+      "汽水",
+      "茶"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_093",
+    "target": "XAVIER",
+    "text": "英文單字「Pencil」是指什麼文具？",
+    "options": [
+      "鉛筆",
+      "鋼筆",
+      "彩色筆",
+      "粉筆"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_094",
+    "target": "XAVIER",
+    "text": "「厚」的反義字是什麼？",
+    "options": [
+      "薄",
+      "輕",
+      "細",
+      "小"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_095",
+    "target": "XAVIER",
+    "text": "英文單字「Ruler」是指什麼文具？",
+    "options": [
+      "尺",
+      "橡皮擦",
+      "剪刀",
+      "膠水"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_096",
+    "target": "XAVIER",
+    "text": "注音符號「ㄎ」開頭的動物是哪個？",
+    "options": [
+      "考拉(無尾熊)",
+      "袋鼠",
+      "熊貓",
+      "獅子"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_097",
+    "target": "XAVIER",
+    "text": "英文單字「Pig」是指什麼動物？",
+    "options": [
+      "豬",
+      "牛",
+      "羊",
+      "馬"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_098",
+    "target": "XAVIER",
+    "text": "「亮」的反義字是什麼？",
+    "options": [
+      "暗",
+      "黑",
+      "深",
+      "陰"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_099",
+    "target": "XAVIER",
+    "text": "英文單字「Cow」是指什麼動物？",
+    "options": [
+      "母牛/奶牛",
+      "馬",
+      "羊",
+      "豬"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_100",
+    "target": "XAVIER",
+    "text": "注音符號「ㄉ」開頭的動物是哪個？",
+    "options": [
+      "袋鼠",
+      "大象",
+      "無尾熊",
+      "河馬"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_101",
+    "target": "XAVIER",
+    "text": "英文單字「Sheep」是指什麼動物？",
+    "options": [
+      "綿羊",
+      "山羊",
+      "牛",
+      "鹿"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_102",
+    "target": "XAVIER",
+    "text": "「買」的反義字是什麼？",
+    "options": [
+      "賣",
+      "給",
+      "收",
+      "拿"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_103",
+    "target": "XAVIER",
+    "text": "英文單字「Horse」是指什麼動物？",
+    "options": [
+      "馬",
+      "牛",
+      "羊",
+      "驢"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_104",
+    "target": "XAVIER",
+    "text": "注音符號「ㄘ」開頭的植物或水果是哪個？",
+    "options": [
+      "草莓",
+      "蘋果",
+      "香蕉",
+      "鳳梨"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_105",
+    "target": "XAVIER",
+    "text": "英文單字「Lion」是指什麼動物？",
+    "options": [
+      "獅子",
+      "老虎",
+      "豹",
+      "熊"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_106",
+    "target": "XAVIER",
+    "text": "「天」的反義字是什麼？",
+    "options": [
+      "地",
+      "海",
+      "山",
+      "水"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_107",
+    "target": "XAVIER",
+    "text": "英文單字「Black」是指什麼顏色？",
+    "options": [
+      "黑色",
+      "白色",
+      "灰色",
+      "棕色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_108",
+    "target": "XAVIER",
+    "text": "注音符號「ㄙ」開頭的動物是哪個？",
+    "options": [
+      "松鼠",
+      "獅子",
+      "老虎",
+      "大象"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_109",
+    "target": "XAVIER",
+    "text": "英文單字「White」是指什麼顏色？",
+    "options": [
+      "白色",
+      "黑色",
+      "黃色",
+      "灰色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_110",
+    "target": "XAVIER",
+    "text": "「出」的反義字是什麼？",
+    "options": [
+      "入",
+      "進",
+      "來",
+      "回"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_111",
+    "target": "XAVIER",
+    "text": "英文單字「Purple」是指什麼顏色？",
+    "options": [
+      "紫色",
+      "粉紅色",
+      "藍色",
+      "綠色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_112",
+    "target": "XAVIER",
+    "text": "注音符號「ㄖ」開頭的天體是哪個？",
+    "options": [
+      "日光/日頭(太陽)",
+      "月亮",
+      "星星",
+      "雲朵"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_113",
+    "target": "XAVIER",
+    "text": "英文單字「Orange color」是指什麼顏色？",
+    "options": [
+      "橘色",
+      "黃色",
+      "紅色",
+      "粉紅色"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_114",
+    "target": "XAVIER",
+    "text": "「陰」的反義字是什麼？",
+    "options": [
+      "晴",
+      "陽",
+      "明",
+      "亮"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_115",
+    "target": "XAVIER",
+    "text": "英文單字「Head」是指身體的哪個部位？",
+    "options": [
+      "頭",
+      "手",
+      "腳",
+      "肚子"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_116",
+    "target": "XAVIER",
+    "text": "注音符號「ㄚ」開頭的動物是哪個？",
+    "options": [
+      "鴨子",
+      "鵝",
+      "小雞",
+      "老鷹"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_117",
+    "target": "XAVIER",
+    "text": "英文單字「Leg」是指身體的哪個部位？",
+    "options": [
+      "腿/腳",
+      "手",
+      "肩膀",
+      "脖子"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_118",
+    "target": "XAVIER",
+    "text": "「乾」的反義字是什麼？",
+    "options": [
+      "濕",
+      "水",
+      "潤",
+      "潮"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_119",
+    "target": "XAVIER",
+    "text": "英文單字「Foot」是指身體的哪個部位？",
+    "options": [
+      "腳掌/腳",
+      "手掌",
+      "膝蓋",
+      "腳趾"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_120",
+    "target": "XAVIER",
+    "text": "注音符號「ㄛ」開頭的鳥類是哪個？",
+    "options": [
+      "鴕鳥",
+      "麻雀",
+      "老鷹",
+      "鴿子"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_121",
+    "target": "XAVIER",
+    "text": "英文單字「Arm」是指身體的哪個部位？",
+    "options": [
+      "手臂",
+      "腿",
+      "腳",
+      "肩膀"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_122",
+    "target": "XAVIER",
+    "text": "「動」的反義字是什麼？",
+    "options": [
+      "靜",
+      "停",
+      "止",
+      "穩"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_123",
+    "target": "XAVIER",
+    "text": "英文單字「Mother」是指哪位家庭成員？",
+    "options": [
+      "媽媽",
+      "爸爸",
+      "奶奶",
+      "姐姐"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_124",
+    "target": "XAVIER",
+    "text": "注音符號「ㄜ」開頭的禽類動物是哪個？",
+    "options": [
+      "鵝",
+      "鴨",
+      "雞",
+      "鴿"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_125",
+    "target": "XAVIER",
+    "text": "英文單字「Father」是指哪位家庭成員？",
+    "options": [
+      "爸爸",
+      "媽媽",
+      "爺爺",
+      "哥哥"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_126",
+    "target": "XAVIER",
+    "text": "「香」的反義字是什麼？",
+    "options": [
+      "臭",
+      "苦",
+      "辣",
+      "酸"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_127",
+    "target": "XAVIER",
+    "text": "英文單字「Sister」是指哪位家庭成員？",
+    "options": [
+      "姐妹",
+      "兄弟",
+      "媽媽",
+      "阿姨"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_128",
+    "target": "XAVIER",
+    "text": "注音符號「ㄝ」發音常出現在哪個字？",
+    "options": [
+      "葉子(ㄧㄝˋ)",
+      "太陽",
+      "月亮",
+      "星星"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_129",
+    "target": "XAVIER",
+    "text": "英文單字「Brother」是指哪位家庭成員？",
+    "options": [
+      "兄弟",
+      "姐妹",
+      "爸爸",
+      "叔叔"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_130",
+    "target": "XAVIER",
+    "text": "「早」的反義字是什麼？",
+    "options": [
+      "晚",
+      "遲",
+      "後",
+      "夜"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_131",
+    "target": "XAVIER",
+    "text": "英文單字「Baby」是指什麼？",
+    "options": [
+      "嬰兒/寶寶",
+      "大人",
+      "老人",
+      "學生"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_132",
+    "target": "XAVIER",
+    "text": "注音符號「ㄞ」開頭的感情詞語是哪個？",
+    "options": [
+      "愛心",
+      "生氣",
+      "害怕",
+      "快樂"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_133",
+    "target": "XAVIER",
+    "text": "英文單字「Friend」是指什麼關係的人？",
+    "options": [
+      "朋友",
+      "敵人",
+      "陌生人",
+      "老師"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_134",
+    "target": "XAVIER",
+    "text": "「深」的反義字是什麼？",
+    "options": [
+      "淺",
+      "低",
+      "薄",
+      "小"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_135",
+    "target": "XAVIER",
+    "text": "英文單字「House」是指什麼？",
+    "options": [
+      "房子/房屋",
+      "學校",
+      "公園",
+      "商店"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_136",
+    "target": "XAVIER",
+    "text": "注音符號「ㄟ」開頭的物品是哪個？",
+    "options": [
+      "杯子(ㄅㄟ)",
+      "帽子",
+      "鞋子",
+      "衣服"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_137",
+    "target": "XAVIER",
+    "text": "英文單字「Room」是指什麼？",
+    "options": [
+      "房間",
+      "客廳",
+      "廚房",
+      "花園"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_138",
+    "target": "XAVIER",
+    "text": "「強」的反義字是什麼？",
+    "options": [
+      "弱",
+      "小",
+      "軟",
+      "差"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_139",
+    "target": "XAVIER",
+    "text": "英文單字「Bed」是指什麼家具？",
+    "options": [
+      "床",
+      "桌子",
+      "椅子",
+      "櫃子"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_140",
+    "target": "XAVIER",
+    "text": "注音符號「ㄠ」開頭的動作是哪個？",
+    "options": [
+      "擁抱(ㄠˇ/ㄅㄠˋ)",
+      "跑步",
+      "跳躍",
+      "走路"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_141",
+    "target": "XAVIER",
+    "text": "英文單字「Window」是指什麼？",
+    "options": [
+      "窗戶",
+      "門",
+      "牆壁",
+      "地板"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_142",
+    "target": "XAVIER",
+    "text": "「長」在形容時間時的反義字是什麼？",
+    "options": [
+      "短",
+      "少",
+      "快",
+      "慢"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_143",
+    "target": "XAVIER",
+    "text": "英文單字「Box」是指什麼物品？",
+    "options": [
+      "盒子/箱子",
+      "袋子",
+      "籃子",
+      "桶子"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_144",
+    "target": "XAVIER",
+    "text": "注音符號「ㄡ」發音常見於哪個字？",
+    "options": [
+      "狗(ㄍㄡˇ)",
+      "貓",
+      "鳥",
+      "魚"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_145",
+    "target": "XAVIER",
+    "text": "英文單字「Ball」是指什麼體育用品？",
+    "options": [
+      "球",
+      "棒子",
+      "網子",
+      "繩子"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_146",
+    "target": "XAVIER",
+    "text": "「多」在形容數量時的反義字是什麼？",
+    "options": [
+      "少",
+      "小",
+      "微",
+      "零"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_147",
+    "target": "XAVIER",
+    "text": "英文單字「Doll」是指什麼玩具？",
+    "options": [
+      "洋娃娃/玩偶",
+      "積木",
+      "拼圖",
+      "賽車"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_148",
+    "target": "XAVIER",
+    "text": "注音符號「ㄢ」開頭的詞語是哪個？",
+    "options": [
+      "安全",
+      "危險",
+      "快樂",
+      "生氣"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_149",
+    "target": "XAVIER",
+    "text": "英文單字「Carrot」是什麼蔬菜？",
+    "options": [
+      "胡蘿蔔",
+      "高麗菜",
+      "番茄",
+      "黃瓜"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_150",
+    "target": "XAVIER",
+    "text": "「美」的反義字是什麼？",
+    "options": [
+      "醜",
+      "壞",
+      "舊",
+      "髒"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_151",
+    "target": "XAVIER",
+    "text": "英文單字「Cake」是指什麼食物？",
+    "options": [
+      "蛋糕",
+      "麵包",
+      "餅乾",
+      "糖果"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_152",
+    "target": "XAVIER",
+    "text": "注音符號「ㄣ」發音常見於哪個數字？",
+    "options": [
+      "二(ㄦˋ)/三(ㄙㄢ)/人(ㄖㄣˊ)",
+      "一",
+      "五",
+      "八"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_153",
+    "target": "XAVIER",
+    "text": "英文單字「Candy」是指什麼甜食？",
+    "options": [
+      "糖果",
+      "巧克力",
+      "冰淇淋",
+      "餅乾"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_154",
+    "target": "XAVIER",
+    "text": "「真」的反義字是什麼？",
+    "options": [
+      "假",
+      "錯",
+      "虛",
+      "偽"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_155",
+    "target": "XAVIER",
+    "text": "英文單字「Ice cream」是指什麼甜點？",
+    "options": [
+      "冰淇淋",
+      "蛋糕",
+      "布丁",
+      "派"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_156",
+    "target": "XAVIER",
+    "text": "注音符號「ㄤ」開頭的物品是哪個？",
+    "options": [
+      "昂貴(ㄤ)",
+      "便宜",
+      "美麗",
+      "乾淨"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_157",
+    "target": "XAVIER",
+    "text": "英文單字「Bread」是指什麼食物？",
+    "options": [
+      "麵包",
+      "米飯",
+      "麵條",
+      "水餃"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_158",
+    "target": "XAVIER",
+    "text": "「對」的反義字是什麼？",
+    "options": [
+      "錯",
+      "假",
+      "否",
+      "非"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_159",
+    "target": "XAVIER",
+    "text": "英文單字「Rice」是指什麼主食？",
+    "options": [
+      "米飯",
+      "麵條",
+      "麵包",
+      "饅頭"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_160",
+    "target": "XAVIER",
+    "text": "注音符號「ㄥ」發音常見於哪個數字？",
+    "options": [
+      "零(ㄌㄧㄥˊ)",
+      "一",
+      "二",
+      "三"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_161",
+    "target": "XAVIER",
+    "text": "英文單字「Milk Tea」是指什麼飲料？",
+    "options": [
+      "奶茶",
+      "紅茶",
+      "綠茶",
+      "咖啡"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_162",
+    "target": "XAVIER",
+    "text": "「正」的反義字是什麼？",
+    "options": [
+      "反",
+      "歪",
+      "斜",
+      "偏"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_163",
+    "target": "XAVIER",
+    "text": "英文單字「Juice」是指什麼飲料？",
+    "options": [
+      "果汁",
+      "牛奶",
+      "汽水",
+      "茶"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_164",
+    "target": "XAVIER",
+    "text": "注音符號「ㄦ」開頭的器官是哪個？",
+    "options": [
+      "耳朵(ㄦˇ ㄉㄨㄛ˙)",
+      "眼睛",
+      "鼻子",
+      "嘴巴"
+    ],
+    "correctIndex": 0,
+    "category": "小一注音"
+  },
+  {
+    "id": "g1_165",
+    "target": "XAVIER",
+    "text": "英文單字「Watermelon」是指什麼水果？",
+    "options": [
+      "西瓜",
+      "木瓜",
+      "哈密瓜",
+      "草莓"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_166",
+    "target": "XAVIER",
+    "text": "「成」的反義字是什麼？",
+    "options": [
+      "敗",
+      "失",
+      "破",
+      "毀"
+    ],
+    "correctIndex": 0,
+    "category": "小一國語"
+  },
+  {
+    "id": "g1_167",
+    "target": "XAVIER",
+    "text": "英文單字「Grape」是指什麼水果？",
+    "options": [
+      "葡萄",
+      "櫻桃",
+      "藍莓",
+      "草莓"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_168",
+    "target": "XAVIER",
+    "text": "7 加 5 等於多少？",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "10"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學"
+  },
+  {
+    "id": "g1_169",
+    "target": "XAVIER",
+    "text": "9 加 4 等於多少？",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "15"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學"
+  },
+  {
+    "id": "g1_170",
+    "target": "XAVIER",
+    "text": "8 加 6 等於多少？",
+    "options": [
+      "14",
+      "13",
+      "15",
+      "16"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學"
+  },
+  {
+    "id": "g1_171",
+    "target": "XAVIER",
+    "text": "15 減 6 等於多少？",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學"
+  },
+  {
+    "id": "g1_172",
+    "target": "XAVIER",
+    "text": "12 減 4 等於多少？",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學"
+  },
+  {
+    "id": "g1_173",
+    "target": "XAVIER",
+    "text": "18 減 9 等於多少？",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學"
+  },
+  {
+    "id": "g1_174",
+    "target": "XAVIER",
+    "text": "小明有 6 顆彈珠，哥哥給他 5 顆，他現在有幾顆？",
+    "options": [
+      "11顆",
+      "10顆",
+      "12顆",
+      "9顆"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學應用"
+  },
+  {
+    "id": "g1_175",
+    "target": "XAVIER",
+    "text": "小紅有 14 支彩色筆，用了 5 支，還剩幾支？",
+    "options": [
+      "9支",
+      "8支",
+      "10支",
+      "7支"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學應用"
+  },
+  {
+    "id": "g1_176",
+    "target": "XAVIER",
+    "text": "樹上有 8 只小鳥，又飛來 7 只，一共有幾隻小鳥？",
+    "options": [
+      "15隻",
+      "14隻",
+      "16隻",
+      "13隻"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學應用"
+  },
+  {
+    "id": "g1_177",
+    "target": "XAVIER",
+    "text": "盤子裡有 10 個草莓，吃了 4 個，還剩幾個？",
+    "options": [
+      "6個",
+      "5個",
+      "7個",
+      "4個"
+    ],
+    "correctIndex": 0,
+    "category": "小一數學應用"
+  },
+  {
+    "id": "g1_178",
+    "target": "XAVIER",
+    "text": "正方形有幾條邊？",
+    "options": [
+      "4條",
+      "3條",
+      "5條",
+      "6條"
+    ],
+    "correctIndex": 0,
+    "category": "小一幾何"
+  },
+  {
+    "id": "g1_179",
+    "target": "XAVIER",
+    "text": "三角形有幾個角？",
+    "options": [
+      "3個",
+      "4個",
+      "5個",
+      "2個"
+    ],
+    "correctIndex": 0,
+    "category": "小一幾何"
+  },
+  {
+    "id": "g1_180",
+    "target": "XAVIER",
+    "text": "長方形有幾個角？",
+    "options": [
+      "4個",
+      "3個",
+      "5個",
+      "6個"
+    ],
+    "correctIndex": 0,
+    "category": "小一幾何"
+  },
+  {
+    "id": "g1_181",
+    "target": "XAVIER",
+    "text": "時鐘上的長針指著 12，短針指著 9，請問是幾點鐘？",
+    "options": [
+      "9點鐘",
+      "12點鐘",
+      "3點鐘",
+      "6點鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小一時間"
+  },
+  {
+    "id": "g1_182",
+    "target": "XAVIER",
+    "text": "時鐘上的長針指著 12，短針指著 6，請問是幾點鐘？",
+    "options": [
+      "6點鐘",
+      "12點鐘",
+      "3點鐘",
+      "9點鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小一時間"
+  },
+  {
+    "id": "g1_183",
+    "target": "XAVIER",
+    "text": "時鐘上的長針指著 6，短針指在 1 與 2 之間，請問是幾點半？",
+    "options": [
+      "1點半",
+      "2點半",
+      "12點半",
+      "6點半"
+    ],
+    "correctIndex": 0,
+    "category": "小一時間"
+  },
+  {
+    "id": "g1_184",
+    "target": "XAVIER",
+    "text": "時鐘上的長針指著 6，短針指在 8 與 9 之間，請問是幾點半？",
+    "options": [
+      "8點半",
+      "9點半",
+      "7點半",
+      "6點半"
+    ],
+    "correctIndex": 0,
+    "category": "小一時間"
+  },
+  {
+    "id": "g1_185",
+    "target": "XAVIER",
+    "text": "過馬路時應該走什麼標線才安全？",
+    "options": [
+      "斑馬線",
+      "紅線",
+      "黃線",
+      "網狀線"
+    ],
+    "correctIndex": 0,
+    "category": "小一交通安全"
+  },
+  {
+    "id": "g1_186",
+    "target": "XAVIER",
+    "text": "搭乘汽車時，後座乘客應該做什麼安全措施？",
+    "options": [
+      "繫安全帶",
+      "站起來",
+      "把頭伸出窗外",
+      "玩火"
+    ],
+    "correctIndex": 0,
+    "category": "小一交通安全"
+  },
+  {
+    "id": "g1_187",
+    "target": "XAVIER",
+    "text": "騎乘腳踏車或搭乘機車時，頭上應該戴什麼？",
+    "options": [
+      "安全帽",
+      "鴨舌帽",
+      "毛線帽",
+      "草帽"
+    ],
+    "correctIndex": 0,
+    "category": "小一交通安全"
+  },
+  {
+    "id": "g1_188",
+    "target": "XAVIER",
+    "text": "看到紅燈時，行人應該怎麼做？",
+    "options": [
+      "停下來等待",
+      "快步跑過去",
+      "慢慢走過去",
+      "跳過去"
+    ],
+    "correctIndex": 0,
+    "category": "小一交通安全"
+  },
+  {
+    "id": "g1_189",
+    "target": "XAVIER",
+    "text": "打噴嚏時可以用什麼遮住口鼻？",
+    "options": [
+      "面紙或袖子",
+      "用手直接遮",
+      "不遮擋",
+      "對著別人"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活衛生"
+  },
+  {
+    "id": "g1_190",
+    "target": "XAVIER",
+    "text": "吃東西前要用什麼洗手才乾淨？",
+    "options": [
+      "肥皂和清水",
+      "只用清水沖",
+      "用衛生紙擦",
+      "用衣服擦"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活衛生"
+  },
+  {
+    "id": "g1_191",
+    "target": "XAVIER",
+    "text": "每天早晚最少要刷幾次牙？",
+    "options": [
+      "2次",
+      "1次",
+      "3次",
+      "5次"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活衛生"
+  },
+  {
+    "id": "g1_192",
+    "target": "XAVIER",
+    "text": "看電視時，應該保持什麼樣的距離？",
+    "options": [
+      "適當距離(約2-3公尺)",
+      "貼在螢幕前",
+      "關燈看",
+      "躺著看"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活常識"
+  },
+  {
+    "id": "g1_193",
+    "target": "XAVIER",
+    "text": "保護眼睛的好習慣是什麼？",
+    "options": [
+      "看書光線充足並適度休息",
+      "關燈玩手機",
+      "用手揉眼睛",
+      "一直看螢幕"
+    ],
+    "correctIndex": 0,
+    "category": "小一身體保健"
+  },
+  {
+    "id": "g1_194",
+    "target": "XAVIER",
+    "text": "人體是用什麼器官來聞氣味的？",
+    "options": [
+      "鼻子",
+      "耳朵",
+      "眼睛",
+      "嘴巴"
+    ],
+    "correctIndex": 0,
+    "category": "小一身體常識"
+  },
+  {
+    "id": "g1_195",
+    "target": "XAVIER",
+    "text": "人體是用什麼器官來品嚐食物味道的？",
+    "options": [
+      "舌頭/嘴巴",
+      "鼻子",
+      "耳朵",
+      "眼睛"
+    ],
+    "correctIndex": 0,
+    "category": "小一身體常識"
+  },
+  {
+    "id": "g1_196",
+    "target": "XAVIER",
+    "text": "用手摸東西時，我們是透過什麼感覺來感受粗糙或平滑？",
+    "options": [
+      "觸覺",
+      "聽覺",
+      "視覺",
+      "味覺"
+    ],
+    "correctIndex": 0,
+    "category": "小一身體常識"
+  },
+  {
+    "id": "g1_197",
+    "target": "XAVIER",
+    "text": "下列哪一種是夏季常見的水果？",
+    "options": [
+      "西瓜",
+      "橘子",
+      "草莓",
+      "棗子"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然常識"
+  },
+  {
+    "id": "g1_198",
+    "target": "XAVIER",
+    "text": "太陽從哪個方向升起？",
+    "options": [
+      "東方",
+      "西方",
+      "南方",
+      "北方"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然常識"
+  },
+  {
+    "id": "g1_199",
+    "target": "XAVIER",
+    "text": "太陽從哪個方向落下？",
+    "options": [
+      "西方",
+      "東方",
+      "南方",
+      "北方"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然常識"
+  },
+  {
+    "id": "g1_200",
+    "target": "XAVIER",
+    "text": "下雨天出門應該帶什麼雨具？",
+    "options": [
+      "雨傘或雨衣",
+      "太陽眼鏡",
+      "草帽",
+      "扇子"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活常識"
+  },
+  {
+    "id": "g1_201",
+    "target": "XAVIER",
+    "text": "樹葉在秋天通常會變成什麼顏色並落下？",
+    "options": [
+      "黃色或紅色",
+      "綠色",
+      "藍色",
+      "紫色"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然常識"
+  },
+  {
+    "id": "g1_202",
+    "target": "XAVIER",
+    "text": "冬天天氣冷的時候，應該穿什麼衣服保暖？",
+    "options": [
+      "外套與毛衣",
+      "短袖短褲",
+      "泳衣",
+      "背心"
+    ],
+    "correctIndex": 0,
+    "category": "小一生活常識"
+  },
+  {
+    "id": "g1_203",
+    "target": "XAVIER",
+    "text": "下列哪種動物是住在水裡的？",
+    "options": [
+      "魚",
+      "兔子",
+      "小狗",
+      "松鼠"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然常識"
+  },
+  {
+    "id": "g1_204",
+    "target": "XAVIER",
+    "text": "下列哪種動物會下蛋孵小雞？",
+    "options": [
+      "母雞",
+      "母牛",
+      "母狗",
+      "母貓"
+    ],
+    "correctIndex": 0,
+    "category": "小一自然常識"
+  },
+  {
+    "id": "g1_205",
+    "target": "XAVIER",
+    "text": "英文單字「Rain」是什麼意思？",
+    "options": [
+      "下雨",
+      "下雪",
+      "刮風",
+      "出太陽"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g1_206",
+    "target": "XAVIER",
+    "text": "英文單字「Snow」是什麼意思？",
+    "options": [
+      "下雪",
+      "下雨",
+      "雲",
+      "霧"
+    ],
+    "correctIndex": 0,
+    "category": "小一英文"
+  },
+  {
+    "id": "g3_001",
+    "target": "SILAS",
+    "text": "成語「掩耳盜___」空格內應填入哪個字？",
+    "options": [
+      "鈴",
+      "鐘",
+      "鼓",
+      "笛"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_002",
+    "target": "SILAS",
+    "text": "成語「望梅止___」空格內應填入哪個字？",
+    "options": [
+      "渴",
+      "餓",
+      "痛",
+      "累"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_003",
+    "target": "SILAS",
+    "text": "成語「拔苗助___」空格內應填入哪個字？",
+    "options": [
+      "長",
+      "高",
+      "大",
+      "快"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_004",
+    "target": "SILAS",
+    "text": "台灣最高的第一高峰是哪一座山？",
+    "options": [
+      "玉山",
+      "阿里山",
+      "雪山",
+      "陽明山"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_005",
+    "target": "SILAS",
+    "text": "1 小時 40 分鐘等於多少分鐘？",
+    "options": [
+      "100分鐘",
+      "80分鐘",
+      "140分鐘",
+      "60分鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間換算"
+  },
+  {
+    "id": "g3_006",
+    "target": "SILAS",
+    "text": "1 公斤等於多少公克？",
+    "options": [
+      "1000公克",
+      "100公克",
+      "500公克",
+      "10公克"
+    ],
+    "correctIndex": 0,
+    "category": "小三重量單位"
+  },
+  {
+    "id": "g3_007",
+    "target": "SILAS",
+    "text": "英文單字「Hospital」是指什麼地方？",
+    "options": [
+      "醫院",
+      "飯店",
+      "學校",
+      "警察局"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_008",
+    "target": "SILAS",
+    "text": "英文單字「Firefighter」是指什麼職業？",
+    "options": [
+      "消防員",
+      "警察",
+      "郵差",
+      "醫生"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_009",
+    "target": "SILAS",
+    "text": "空氣中含量最多的氣體是哪一種？",
+    "options": [
+      "氮氣 (約78%)",
+      "氧氣 (約21%)",
+      "二氧化碳",
+      "氦氣"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_010",
+    "target": "SILAS",
+    "text": "成語「盲人摸___」空格內應填入哪個字？",
+    "options": [
+      "象",
+      "馬",
+      "虎",
+      "龍"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_011",
+    "target": "SILAS",
+    "text": "正方形邊長為 6 公分，請問周長是多少公分？",
+    "options": [
+      "24公分",
+      "36公分",
+      "18公分",
+      "12公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何周長"
+  },
+  {
+    "id": "g3_012",
+    "target": "SILAS",
+    "text": "英文問句「What time is it?」是什麼意思？",
+    "options": [
+      "現在幾點鐘？",
+      "今天天氣如何？",
+      "你叫什麼名字？",
+      "你要去哪裡？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_013",
+    "target": "SILAS",
+    "text": "成語「守株待___」空格內應填入哪個字？",
+    "options": [
+      "兔",
+      "狗",
+      "貓",
+      "羊"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_014",
+    "target": "SILAS",
+    "text": "成語「畫蛇添___」空格內應填入哪個字？",
+    "options": [
+      "足",
+      "頭",
+      "尾",
+      "翅"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_015",
+    "target": "SILAS",
+    "text": "成語「井底之___」空格內應填入哪個字？",
+    "options": [
+      "蛙",
+      "魚",
+      "鳥",
+      "龜"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_016",
+    "target": "SILAS",
+    "text": "成語「狐假虎___」空格內應填入哪個字？",
+    "options": [
+      "威",
+      "勢",
+      "風",
+      "爪"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_017",
+    "target": "SILAS",
+    "text": "成語「亡羊補___」空格內應填入哪個字？",
+    "options": [
+      "牢",
+      "欄",
+      "網",
+      "牆"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_018",
+    "target": "SILAS",
+    "text": "成語「對牛彈___」空格內應填入哪個字？",
+    "options": [
+      "琴",
+      "鼓",
+      "笛",
+      "簫"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_019",
+    "target": "SILAS",
+    "text": "成語「畫龍點___」空格內應填入哪個字？",
+    "options": [
+      "睛",
+      "目",
+      "頭",
+      "尾"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_020",
+    "target": "SILAS",
+    "text": "成語「胸有成___」空格內應填入哪個字？",
+    "options": [
+      "竹",
+      "花",
+      "樹",
+      "草"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_021",
+    "target": "SILAS",
+    "text": "成語「雪中送___」空格內應填入哪個字？",
+    "options": [
+      "炭",
+      "花",
+      "水",
+      "米"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_022",
+    "target": "SILAS",
+    "text": "成語「一箭雙___」空格內應填入哪個字？",
+    "options": [
+      "雕",
+      "鳥",
+      "雁",
+      "鷹"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_023",
+    "target": "SILAS",
+    "text": "成語「手舞足___」空格內應填入哪個字？",
+    "options": [
+      "蹈",
+      "躍",
+      "跳",
+      "動"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_024",
+    "target": "SILAS",
+    "text": "成語「自相矛___」空格內應填入哪個字？",
+    "options": [
+      "盾",
+      "劍",
+      "刀",
+      "槍"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_025",
+    "target": "SILAS",
+    "text": "成語「熟能生___」空格內應填入哪個字？",
+    "options": [
+      "巧",
+      "妙",
+      "通",
+      "明"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_026",
+    "target": "SILAS",
+    "text": "成語「刻舟求___」空格內應填入哪個字？",
+    "options": [
+      "劍",
+      "刀",
+      "印",
+      "物"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_027",
+    "target": "SILAS",
+    "text": "成語「買櫝還___」空格內應填入哪個字？",
+    "options": [
+      "珠",
+      "金",
+      "銀",
+      "玉"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_028",
+    "target": "SILAS",
+    "text": "成語「濫竽充___」空格內應填入哪個字？",
+    "options": [
+      "數",
+      "量",
+      "隊",
+      "員"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_029",
+    "target": "SILAS",
+    "text": "成語「四面楚___」空格內應填入哪個字？",
+    "options": [
+      "歌",
+      "聲",
+      "風",
+      "雨"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_030",
+    "target": "SILAS",
+    "text": "成語「水滴石___」空格內應填入哪個字？",
+    "options": [
+      "穿",
+      "破",
+      "開",
+      "裂"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_031",
+    "target": "SILAS",
+    "text": "太陽系中距離太陽最近的行星是哪一顆？",
+    "options": [
+      "水星",
+      "金星",
+      "木星",
+      "火星"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_032",
+    "target": "SILAS",
+    "text": "太陽系中體積最大的行星是哪一顆？",
+    "options": [
+      "木星",
+      "土星",
+      "地球",
+      "天王星"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_033",
+    "target": "SILAS",
+    "text": "植物進行光合作用主要吸收哪種氣體？",
+    "options": [
+      "二氧化碳",
+      "氧氣",
+      "氮氣",
+      "氫氣"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_034",
+    "target": "SILAS",
+    "text": "植物光合作用後主要釋放哪種氣體供生物呼吸？",
+    "options": [
+      "氧氣",
+      "二氧化碳",
+      "一氧化碳",
+      "水蒸氣"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_035",
+    "target": "SILAS",
+    "text": "水在沸騰時的溫度大約是多少攝氏度？",
+    "options": [
+      "100℃",
+      "0℃",
+      "50℃",
+      "200℃"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_036",
+    "target": "SILAS",
+    "text": "水在標準大氣壓下結冰的溫度是多少攝氏度？",
+    "options": [
+      "0℃",
+      "100℃",
+      "-10℃",
+      "10℃"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_037",
+    "target": "SILAS",
+    "text": "磁鐵的哪兩個極性互相靠近時會「互相吸引」？",
+    "options": [
+      "異極相吸 (S極與N極)",
+      "同極相吸 (N極與N極)",
+      "同極相吸 (S極與S極)",
+      "不互相吸引"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_038",
+    "target": "SILAS",
+    "text": "磁鐵同極靠近時（如 N極遇N極）會發生什麼現象？",
+    "options": [
+      "互相排斥",
+      "互相吸引",
+      "互相黏住",
+      "變大"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_039",
+    "target": "SILAS",
+    "text": "地球繞太陽公轉一圈大約需要多久時間？",
+    "options": [
+      "一年 (約365天)",
+      "一天",
+      "一個月",
+      "十年"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然"
+  },
+  {
+    "id": "g3_040",
+    "target": "SILAS",
+    "text": "地球自轉一圈大約需要多久時間？",
+    "options": [
+      "一天 (24小時)",
+      "一小時",
+      "一年",
+      "一個月"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然"
+  },
+  {
+    "id": "g3_041",
+    "target": "SILAS",
+    "text": "地球上面積最大的海洋是哪一個？",
+    "options": [
+      "太平洋",
+      "大西洋",
+      "印度洋",
+      "北冰洋"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_042",
+    "target": "SILAS",
+    "text": "1 公升等於多少毫升？",
+    "options": [
+      "1000毫升",
+      "100毫升",
+      "500毫升",
+      "10毫升"
+    ],
+    "correctIndex": 0,
+    "category": "小三容量單位"
+  },
+  {
+    "id": "g3_043",
+    "target": "SILAS",
+    "text": "長方形的長是 10 公分，寬是 5 公分，請問周長是多少？",
+    "options": [
+      "30公分",
+      "50公分",
+      "15公分",
+      "20公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何"
+  },
+  {
+    "id": "g3_044",
+    "target": "SILAS",
+    "text": "包子一包有 6 個，小明買了 7 包，共有多少個包子？",
+    "options": [
+      "42個",
+      "36個",
+      "48個",
+      "40個"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法應用"
+  },
+  {
+    "id": "g3_045",
+    "target": "SILAS",
+    "text": "有 36 顆蘋果，平均分給 4 個小朋友，每個人分到幾顆？",
+    "options": [
+      "9顆",
+      "8顆",
+      "7顆",
+      "6顆"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法應用"
+  },
+  {
+    "id": "g3_046",
+    "target": "SILAS",
+    "text": "英文單字「Library」是指什麼地方？",
+    "options": [
+      "圖書館",
+      "電影院",
+      "體育館",
+      "博物館"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_047",
+    "target": "SILAS",
+    "text": "英文單字「Doctor」是指什麼職業？",
+    "options": [
+      "醫生",
+      "護士",
+      "警察",
+      "司機"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_048",
+    "target": "SILAS",
+    "text": "英文單字「Supermarket」是指什麼地方？",
+    "options": [
+      "超級市場",
+      "公園",
+      "郵局",
+      "銀行"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_049",
+    "target": "SILAS",
+    "text": "英文單字「Police officer」是指什麼職業？",
+    "options": [
+      "警察",
+      "消防員",
+      "郵差",
+      "廚師"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_050",
+    "target": "SILAS",
+    "text": "英文問句「How's the weather today?」是什麼意思？",
+    "options": [
+      "今天天氣如何？",
+      "現在幾點鐘？",
+      "你要去哪裡？",
+      "你好嗎？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_051",
+    "target": "SILAS",
+    "text": "成語「愚公移___」空格內應填入哪個字？",
+    "options": [
+      "山",
+      "石",
+      "海",
+      "河"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_052",
+    "target": "SILAS",
+    "text": "一包餅乾有 8 片，小華買了 9 包，共有多少片餅乾？",
+    "options": [
+      "72片",
+      "64片",
+      "81片",
+      "56片"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法"
+  },
+  {
+    "id": "g3_053",
+    "target": "SILAS",
+    "text": "英文單字「Bakery」是指什麼地方？",
+    "options": [
+      "麵包店",
+      "花店",
+      "鞋店",
+      "書店"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_054",
+    "target": "SILAS",
+    "text": "水蒸氣冷凝變成液態水的過程中，溫度通常會如何變化？",
+    "options": [
+      "放熱冷卻",
+      "吸熱升溫",
+      "溫度不變",
+      "直接結冰"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_055",
+    "target": "SILAS",
+    "text": "正方形的邊長如果是 8 公分，請問它的周長是多少？",
+    "options": [
+      "32公分",
+      "64公分",
+      "16公分",
+      "24公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何周長"
+  },
+  {
+    "id": "g3_056",
+    "target": "SILAS",
+    "text": "成語「守口如___」空格內應填入哪個字？",
+    "options": [
+      "瓶",
+      "罐",
+      "牆",
+      "門"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_057",
+    "target": "SILAS",
+    "text": "英文問句「Where are you from?」是什麼意思？",
+    "options": [
+      "你來自哪裡？",
+      "你要去哪裡？",
+      "你幾歲？",
+      "你在做什麼？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_058",
+    "target": "SILAS",
+    "text": "2 公斤 500 公克等於多少公克？",
+    "options": [
+      "2500公克",
+      "2050公克",
+      "250公克",
+      "5000公克"
+    ],
+    "correctIndex": 0,
+    "category": "小三重量單位"
+  },
+  {
+    "id": "g3_059",
+    "target": "SILAS",
+    "text": "台灣最大的天然湖泊是哪一個？",
+    "options": [
+      "日月潭",
+      "澄清湖",
+      "翠峰湖",
+      "蘭潭"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_060",
+    "target": "SILAS",
+    "text": "植物根部的主要功能是什麼？",
+    "options": [
+      "吸收水分與養分",
+      "進行光合作用",
+      "開花結果",
+      "吸引昆蟲"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_061",
+    "target": "SILAS",
+    "text": "成語「千鈞一___」空格內應填入哪個字？",
+    "options": [
+      "發",
+      "絲",
+      "針",
+      "線"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_062",
+    "target": "SILAS",
+    "text": "成語「溫故知___」空格內應填入哪個字？",
+    "options": [
+      "新",
+      "舊",
+      "理",
+      "道"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_063",
+    "target": "SILAS",
+    "text": "成語「飲水思___」空格內應填入哪個字？",
+    "options": [
+      "源",
+      "泉",
+      "水",
+      "河"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_064",
+    "target": "SILAS",
+    "text": "成語「破釜沉___」空格內應填入哪個字？",
+    "options": [
+      "舟",
+      "船",
+      "木",
+      "石"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_065",
+    "target": "SILAS",
+    "text": "成語「業精於___」空格內應填入哪個字？",
+    "options": [
+      "勤",
+      "專",
+      "心",
+      "努力"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_066",
+    "target": "SILAS",
+    "text": "成語「班門弄___」空格內應填入哪個字？",
+    "options": [
+      "斧",
+      "刀",
+      "槍",
+      "劍"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_067",
+    "target": "SILAS",
+    "text": "成語「草木皆___」空格內應填入哪個字？",
+    "options": [
+      "兵",
+      "將",
+      "樹",
+      "花"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_068",
+    "target": "SILAS",
+    "text": "成語「車水馬___」空格內應填入哪個字？",
+    "options": [
+      "龍",
+      "蛇",
+      "虎",
+      "象"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_069",
+    "target": "SILAS",
+    "text": "成語「鳥語花___」空格內應填入哪個字？",
+    "options": [
+      "香",
+      "美",
+      "開",
+      "艷"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_070",
+    "target": "SILAS",
+    "text": "成語「同舟共___」空格內應填入哪個字？",
+    "options": [
+      "濟",
+      "渡",
+      "行",
+      "游"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_071",
+    "target": "SILAS",
+    "text": "成語「風調雨___」空格內應填入哪個字？",
+    "options": [
+      "順",
+      "和",
+      "好",
+      "美"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_072",
+    "target": "SILAS",
+    "text": "成語「國泰民___」空格內應填入哪個字？",
+    "options": [
+      "安",
+      "康",
+      "樂",
+      "富"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_073",
+    "target": "SILAS",
+    "text": "成語「海闊天空」中「闊」的意思是什麼？",
+    "options": [
+      "廣闊/開闊",
+      "狹窄",
+      "遙遠",
+      "高大"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_074",
+    "target": "SILAS",
+    "text": "成語「光陰似___」空格內應填入哪個字？",
+    "options": [
+      "箭",
+      "飛",
+      "梭",
+      "光"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_075",
+    "target": "SILAS",
+    "text": "成語「日月如___」空格內應填入哪個字？",
+    "options": [
+      "梭",
+      "箭",
+      "輪",
+      "馬"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_076",
+    "target": "SILAS",
+    "text": "7 的 8 倍是多少？",
+    "options": [
+      "56",
+      "48",
+      "63",
+      "54"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法"
+  },
+  {
+    "id": "g3_077",
+    "target": "SILAS",
+    "text": "9 的 6 倍是多少？",
+    "options": [
+      "54",
+      "45",
+      "63",
+      "48"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法"
+  },
+  {
+    "id": "g3_078",
+    "target": "SILAS",
+    "text": "8 的 8 倍是多少？",
+    "options": [
+      "64",
+      "56",
+      "72",
+      "48"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法"
+  },
+  {
+    "id": "g3_079",
+    "target": "SILAS",
+    "text": "48 除以 6 等於多少？",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法"
+  },
+  {
+    "id": "g3_080",
+    "target": "SILAS",
+    "text": "56 除以 7 等於多少？",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法"
+  },
+  {
+    "id": "g3_081",
+    "target": "SILAS",
+    "text": "72 除以 9 等於多少？",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法"
+  },
+  {
+    "id": "g3_082",
+    "target": "SILAS",
+    "text": "45 除以 5 等於多少？",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "6"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法"
+  },
+  {
+    "id": "g3_083",
+    "target": "SILAS",
+    "text": "63 除以 7 等於多少？",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "7"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法"
+  },
+  {
+    "id": "g3_084",
+    "target": "SILAS",
+    "text": "長方形長 12 公分，寬 8 公分，請問周長是多少？",
+    "options": [
+      "40公分",
+      "96公分",
+      "20公分",
+      "44公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何"
+  },
+  {
+    "id": "g3_085",
+    "target": "SILAS",
+    "text": "正方形邊長為 9 公分，請問周長是多少？",
+    "options": [
+      "36公分",
+      "81公分",
+      "27公分",
+      "18公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何"
+  },
+  {
+    "id": "g3_086",
+    "target": "SILAS",
+    "text": "正方形周長是 20 公分，請問它的邊長是多少？",
+    "options": [
+      "5公分",
+      "10公分",
+      "4公分",
+      "6公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何"
+  },
+  {
+    "id": "g3_087",
+    "target": "SILAS",
+    "text": "長方形周長是 24 公分，已知長是 8 公分，寬是多少？",
+    "options": [
+      "4公分",
+      "6公分",
+      "8公分",
+      "2公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何"
+  },
+  {
+    "id": "g3_088",
+    "target": "SILAS",
+    "text": "2 小時 15 分鐘等於多少分鐘？",
+    "options": [
+      "135分鐘",
+      "125分鐘",
+      "115分鐘",
+      "145分鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間換算"
+  },
+  {
+    "id": "g3_089",
+    "target": "SILAS",
+    "text": "180 分鐘等於多少小時？",
+    "options": [
+      "3小時",
+      "2小時",
+      "4小時",
+      "5小時"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間換算"
+  },
+  {
+    "id": "g3_090",
+    "target": "SILAS",
+    "text": "3 分鐘 20 秒等於多少秒？",
+    "options": [
+      "200秒",
+      "180秒",
+      "220秒",
+      "160秒"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間換算"
+  },
+  {
+    "id": "g3_091",
+    "target": "SILAS",
+    "text": "3500 公克等於幾公斤幾公克？",
+    "options": [
+      "3公斤500公克",
+      "35公斤",
+      "3公斤50公克",
+      "350公斤"
+    ],
+    "correctIndex": 0,
+    "category": "小三重量單位"
+  },
+  {
+    "id": "g3_092",
+    "target": "SILAS",
+    "text": "4 公升 200 毫升等於多少毫升？",
+    "options": [
+      "4200毫升",
+      "4020毫升",
+      "420毫升",
+      "42000毫升"
+    ],
+    "correctIndex": 0,
+    "category": "小三容量單位"
+  },
+  {
+    "id": "g3_093",
+    "target": "SILAS",
+    "text": "6000 毫升等於幾公升？",
+    "options": [
+      "6公升",
+      "60公升",
+      "600公升",
+      "0.6公升"
+    ],
+    "correctIndex": 0,
+    "category": "小三容量單位"
+  },
+  {
+    "id": "g3_094",
+    "target": "SILAS",
+    "text": "英文單字「Museum」是指什麼地方？",
+    "options": [
+      "博物館",
+      "圖書館",
+      "美術館",
+      "電影院"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_095",
+    "target": "SILAS",
+    "text": "英文單字「Cinema / Movie theater」是指什麼地方？",
+    "options": [
+      "電影院",
+      "劇院",
+      "馬戲團",
+      "遊樂園"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_096",
+    "target": "SILAS",
+    "text": "英文單字「Post office」是指什麼地方？",
+    "options": [
+      "郵局",
+      "銀行",
+      "市政府",
+      "警察局"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_097",
+    "target": "SILAS",
+    "text": "英文單字「Bank」是指什麼機構？",
+    "options": [
+      "銀行",
+      "郵局",
+      "醫院",
+      "學校"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_098",
+    "target": "SILAS",
+    "text": "英文單字「Dentist」是指什麼職業？",
+    "options": [
+      "牙醫",
+      "眼科醫生",
+      "獸醫",
+      "護士"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_099",
+    "target": "SILAS",
+    "text": "英文單字「Nurse」是指什麼職業？",
+    "options": [
+      "護士",
+      "醫生",
+      "藥師",
+      "廚師"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_100",
+    "target": "SILAS",
+    "text": "英文單字「Chef」是指什麼職業？",
+    "options": [
+      "主廚/廚師",
+      "服務生",
+      "司機",
+      "農夫"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_101",
+    "target": "SILAS",
+    "text": "英文單字「Pilot」是指什麼職業？",
+    "options": [
+      "飛行員",
+      "船長",
+      "司機",
+      "空服員"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_102",
+    "target": "SILAS",
+    "text": "英文單字「Farmer」是指什麼職業？",
+    "options": [
+      "農夫",
+      "漁夫",
+      "園丁",
+      "獵人"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_103",
+    "target": "SILAS",
+    "text": "英文單字「Driver」是指什麼職業？",
+    "options": [
+      "司機",
+      "警察",
+      "郵差",
+      "售票員"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_104",
+    "target": "SILAS",
+    "text": "英文問句「What is your favorite subject?」是什麼意思？",
+    "options": [
+      "你最喜歡什麼科目？",
+      "你最喜歡什麼食物？",
+      "你最喜歡什麼運動？",
+      "你最喜歡什麼顏色？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_105",
+    "target": "SILAS",
+    "text": "英文問句「How old are you?」是什麼意思？",
+    "options": [
+      "你幾歲？",
+      "你好嗎？",
+      "你是誰？",
+      "你住在哪裡？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_106",
+    "target": "SILAS",
+    "text": "英文問句「May I help you?」是什麼意思？",
+    "options": [
+      "需要我幫忙嗎？",
+      "我可以離開嗎？",
+      "你能幫我嗎？",
+      "我可以吃嗎？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_107",
+    "target": "SILAS",
+    "text": "英文問句「Nice to meet you!」是什麼意思？",
+    "options": [
+      "很高興認識你！",
+      "祝你今天愉快！",
+      "再見！",
+      "對不起！"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_108",
+    "target": "SILAS",
+    "text": "太陽系中被稱為「紅色星球」的是哪一顆行星？",
+    "options": [
+      "火星",
+      "金星",
+      "木星",
+      "水星"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_109",
+    "target": "SILAS",
+    "text": "太陽系中帶有美麗巨大環系（土星環）的是哪一顆行星？",
+    "options": [
+      "土星",
+      "木星",
+      "天王星",
+      "海王星"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_110",
+    "target": "SILAS",
+    "text": "月球繞地球公轉一圈大約需要多久時間？",
+    "options": [
+      "約一個月 (27.3~29.5天)",
+      "一天",
+      "一年",
+      "一週"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_111",
+    "target": "SILAS",
+    "text": "水有哪三態變化？",
+    "options": [
+      "固態(冰)、液態(水)、氣態(水蒸氣)",
+      "固態、軟態、硬態",
+      "冷態、熱態、溫態",
+      "氣態、光態、電態"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_112",
+    "target": "SILAS",
+    "text": "冰塊熔化成水需要什麼條件？",
+    "options": [
+      "吸收熱量(受熱升溫)",
+      "放出熱量(降溫)",
+      "壓力減少",
+      "避光"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_113",
+    "target": "SILAS",
+    "text": "水蒸氣凝結成小水滴需要什麼條件？",
+    "options": [
+      "遇到冷空氣放熱冷卻",
+      "受熱升溫",
+      "加壓",
+      "照光"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_114",
+    "target": "SILAS",
+    "text": "植物葉片主要透過什麼器官結構進行氣體交換與蒸散作用？",
+    "options": [
+      "氣孔",
+      "葉脈",
+      "葉柄",
+      "表皮"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_115",
+    "target": "SILAS",
+    "text": "磁鐵的 N 極代表什麼極？",
+    "options": [
+      "北極 (North)",
+      "南極 (South)",
+      "東極 (East)",
+      "西極 (West)"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_116",
+    "target": "SILAS",
+    "text": "磁鐵的 S 極代表什麼極？",
+    "options": [
+      "南極 (South)",
+      "北極 (North)",
+      "東極 (East)",
+      "西極 (West)"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_117",
+    "target": "SILAS",
+    "text": "指南針靜止時，指針的 N 極通常會指向地理的什麼方向？",
+    "options": [
+      "北方",
+      "南方",
+      "東方",
+      "西方"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_118",
+    "target": "SILAS",
+    "text": "台灣周圍環海，東邊緊鄰著哪一個大洋？",
+    "options": [
+      "太平洋",
+      "大西洋",
+      "印度洋",
+      "北冰洋"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_119",
+    "target": "SILAS",
+    "text": "台灣海峽位於台灣的哪一個方向？",
+    "options": [
+      "西方",
+      "東方",
+      "南方",
+      "北方"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_120",
+    "target": "SILAS",
+    "text": "台灣最長的河流是哪一條？",
+    "options": [
+      "濁水溪",
+      "淡水河",
+      "高屏溪",
+      "曾文溪"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_121",
+    "target": "SILAS",
+    "text": "台灣第二高峰是哪一座山？",
+    "options": [
+      "雪山",
+      "玉山",
+      "阿里山",
+      "合歡山"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_122",
+    "target": "SILAS",
+    "text": "台灣的首都與政治經濟中心是哪個城市？",
+    "options": [
+      "臺北市",
+      "高雄市",
+      "臺中市",
+      "台南市"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_123",
+    "target": "SILAS",
+    "text": "位於台灣南端、以熱帶風光與海洋生態著稱的國家公園是哪個？",
+    "options": [
+      "墾丁國家公園",
+      "陽明山國家公園",
+      "太魯閣國家公園",
+      "玉山國家公園"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_124",
+    "target": "SILAS",
+    "text": "以雄偉的大理岩峽谷景觀聞名的國家公園是哪個？",
+    "options": [
+      "太魯閣國家公園",
+      "雪霸國家公園",
+      "陽明山國家公園",
+      "墾丁國家公園"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_125",
+    "target": "SILAS",
+    "text": "台灣著名的火山地質國家公園是哪一個？",
+    "options": [
+      "陽明山國家公園",
+      "玉山國家公園",
+      "墾丁國家公園",
+      "金門國家公園"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_126",
+    "target": "SILAS",
+    "text": "成語「胸有成竹」中的「竹」是指畫什麼？",
+    "options": [
+      "竹子",
+      "竹筍",
+      "竹林",
+      "竹葉"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_127",
+    "target": "SILAS",
+    "text": "成語「畫蛇添足」的故事中，那個人給蛇畫上了什麼？",
+    "options": [
+      "腳",
+      "翅膀",
+      "尾巴",
+      "角"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_128",
+    "target": "SILAS",
+    "text": "成語「守株待兔」故事中的農夫守著什麼等兔子？",
+    "options": [
+      "樹樁/樹幹",
+      "房子",
+      "陷阱",
+      "菜園"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_129",
+    "target": "SILAS",
+    "text": "成語「亡羊補牢」中的「牢」是指什麼？",
+    "options": [
+      "羊圈",
+      "監獄",
+      "鳥籠",
+      "牆壁"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_130",
+    "target": "SILAS",
+    "text": "成語「井底之蛙」比喻什麼樣的人？",
+    "options": [
+      "眼界狹小、見識短淺的人",
+      "跑得很快的人",
+      "游泳高手",
+      "很會說話的人"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_131",
+    "target": "SILAS",
+    "text": "成語「狐假虎威」中，是哪隻動物借了老虎的威風？",
+    "options": [
+      "狐狸",
+      "狼",
+      "兔子",
+      "猴子"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_132",
+    "target": "SILAS",
+    "text": "成語「自相矛盾」的故事中，賣武器的人誇耀他的什麼能刺穿一切？",
+    "options": [
+      "矛",
+      "盾",
+      "劍",
+      "刀"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_133",
+    "target": "SILAS",
+    "text": "成語「自相矛盾」的故事中，賣武器的人誇耀他的什麼堅固到什麼都刺不穿？",
+    "options": [
+      "盾",
+      "矛",
+      "鎧甲",
+      "頭盔"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_134",
+    "target": "SILAS",
+    "text": "成語「拔苗助長」的故事給我們的啟示是什麼？",
+    "options": [
+      "違反事物發展規律急於求成反而有害",
+      "要多澆水才長得快",
+      "拔苗能促進生長",
+      "農夫很聰明"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_135",
+    "target": "SILAS",
+    "text": "成語「掩耳盜鈴」的故事中，偷鈴人以為把自己的什麼遮住別人就聽不到了？",
+    "options": [
+      "耳朵",
+      "眼睛",
+      "嘴巴",
+      "鼻子"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_136",
+    "target": "SILAS",
+    "text": "一打鉛筆有 12 支，5 打鉛筆共有幾支？",
+    "options": [
+      "60支",
+      "50支",
+      "72支",
+      "48支"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法應用"
+  },
+  {
+    "id": "g3_137",
+    "target": "SILAS",
+    "text": "一星期有 7 天，8 星期共有幾天？",
+    "options": [
+      "56天",
+      "48天",
+      "64天",
+      "50天"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法應用"
+  },
+  {
+    "id": "g3_138",
+    "target": "SILAS",
+    "text": "一包色紙有 100 張，分給 10 個班級，每班平均分到幾張？",
+    "options": [
+      "10張",
+      "100張",
+      "1張",
+      "20張"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法應用"
+  },
+  {
+    "id": "g3_139",
+    "target": "SILAS",
+    "text": "小明存了 450 元，買書花去 280 元，還剩多少元？",
+    "options": [
+      "170元",
+      "230元",
+      "150元",
+      "180元"
+    ],
+    "correctIndex": 0,
+    "category": "小三數學應用"
+  },
+  {
+    "id": "g3_140",
+    "target": "SILAS",
+    "text": "媽媽買了 3 公斤蘋果，每公斤 65 元，共要付多少元？",
+    "options": [
+      "195元",
+      "180元",
+      "210元",
+      "175元"
+    ],
+    "correctIndex": 0,
+    "category": "小三數學應用"
+  },
+  {
+    "id": "g3_141",
+    "target": "SILAS",
+    "text": "小華每天讀書 45 分鐘，持續讀了 4 天，共讀了多少分鐘？",
+    "options": [
+      "180分鐘",
+      "160分鐘",
+      "200分鐘",
+      "150分鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小三數學應用"
+  },
+  {
+    "id": "g3_142",
+    "target": "SILAS",
+    "text": "180 分鐘等於多少小時？",
+    "options": [
+      "3小時",
+      "2.5小時",
+      "4小時",
+      "2小時"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間換算"
+  },
+  {
+    "id": "g3_143",
+    "target": "SILAS",
+    "text": "小美上午 9:30 開始寫作業，寫了 1 小時 20 分鐘，完成時間是幾點幾分？",
+    "options": [
+      "上午 10:50",
+      "上午 10:30",
+      "上午 11:00",
+      "上午 10:40"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間應用"
+  },
+  {
+    "id": "g3_144",
+    "target": "SILAS",
+    "text": "火車下午 2:15 出發，下午 4:45 到達，車程經過了多久？",
+    "options": [
+      "2小時30分鐘",
+      "2小時",
+      "3小時",
+      "2小時15分鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間應用"
+  },
+  {
+    "id": "g3_145",
+    "target": "SILAS",
+    "text": "正方形邊長擴大為原來的 2 倍，周長會變成原來的幾倍？",
+    "options": [
+      "2倍",
+      "4倍",
+      "8倍",
+      "不變"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何觀念"
+  },
+  {
+    "id": "g3_146",
+    "target": "SILAS",
+    "text": "長方形的長和寬各擴大為原來的 3 倍，周長會變成原來的幾倍？",
+    "options": [
+      "3倍",
+      "6倍",
+      "9倍",
+      "不變"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何觀念"
+  },
+  {
+    "id": "g3_147",
+    "target": "SILAS",
+    "text": "下列哪一個單位是用來測量物體的重量？",
+    "options": [
+      "公克(g)",
+      "公升(L)",
+      "公分(cm)",
+      "秒(s)"
+    ],
+    "correctIndex": 0,
+    "category": "小三單位常識"
+  },
+  {
+    "id": "g3_148",
+    "target": "SILAS",
+    "text": "下列哪一個單位是用來測量液體的容量/體積？",
+    "options": [
+      "毫升(mL)",
+      "公斤(kg)",
+      "公尺(m)",
+      "分鐘(min)"
+    ],
+    "correctIndex": 0,
+    "category": "小三單位常識"
+  },
+  {
+    "id": "g3_149",
+    "target": "SILAS",
+    "text": "下列哪一個單位是用來測量長度？",
+    "options": [
+      "公尺(m)",
+      "公克(g)",
+      "公升(L)",
+      "度(℃)"
+    ],
+    "correctIndex": 0,
+    "category": "小三單位常識"
+  },
+  {
+    "id": "g3_150",
+    "target": "SILAS",
+    "text": "英文單字「Station」常見於哪個交通場所？",
+    "options": [
+      "車站",
+      "機場",
+      "港口",
+      "停車場"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_151",
+    "target": "SILAS",
+    "text": "英文單字「Airport」是指什麼地方？",
+    "options": [
+      "機場",
+      "火車站",
+      "公車站",
+      "港口"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_152",
+    "target": "SILAS",
+    "text": "英文單字「Park」是指什麼地方？",
+    "options": [
+      "公園",
+      "游樂園",
+      "動物園",
+      "花園"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_153",
+    "target": "SILAS",
+    "text": "英文單字「Zoo」是指什麼地方？",
+    "options": [
+      "動物園",
+      "植物園",
+      "公園",
+      "農場"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_154",
+    "target": "SILAS",
+    "text": "英文單字「Musician」是指什麼職業？",
+    "options": [
+      "音樂家",
+      "畫家",
+      "作家",
+      "演員"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_155",
+    "target": "SILAS",
+    "text": "英文單字「Artist」是指什麼職業？",
+    "options": [
+      "藝術家/畫家",
+      "雕刻家",
+      "攝影師",
+      "設計師"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_156",
+    "target": "SILAS",
+    "text": "英文單字「Writer」是指什麼職業？",
+    "options": [
+      "作家",
+      "記者",
+      "編輯",
+      "詩人"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_157",
+    "target": "SILAS",
+    "text": "英文單字「Singer」是指什麼職業？",
+    "options": [
+      "歌手",
+      "舞者",
+      "演員",
+      "主持"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_158",
+    "target": "SILAS",
+    "text": "英文單字「Actor」是指什麼職業？",
+    "options": [
+      "男演員",
+      "導演",
+      "編劇",
+      "製片"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_159",
+    "target": "SILAS",
+    "text": "英文單字「Actress」是指什麼職業？",
+    "options": [
+      "女演員",
+      "模特兒",
+      "歌手",
+      "舞者"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_160",
+    "target": "SILAS",
+    "text": "英文問句「What is your favorite color?」是什麼意思？",
+    "options": [
+      "你最喜歡什麼顏色？",
+      "你喜歡畫畫嗎？",
+      "這是什麼顏色？",
+      "你穿什麼顏色衣服？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_161",
+    "target": "SILAS",
+    "text": "英文問句「What are you doing?」是什麼意思？",
+    "options": [
+      "你在做什麼？",
+      "你要去哪裡？",
+      "你好嗎？",
+      "你是誰？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_162",
+    "target": "SILAS",
+    "text": "英文問句「Can you help me?」是什麼意思？",
+    "options": [
+      "你能幫我嗎？",
+      "我可以幫你嗎？",
+      "你想幫忙嗎？",
+      "我們一起做嗎？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_163",
+    "target": "SILAS",
+    "text": "英文句「Thank you very much!」回答哪一句最合適？",
+    "options": [
+      "You're welcome!",
+      "I'm sorry.",
+      "Goodbye!",
+      "Yes, please."
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_164",
+    "target": "SILAS",
+    "text": "太陽系中唯一已知有生命存在的行星是哪一顆？",
+    "options": [
+      "地球",
+      "火星",
+      "金星",
+      "木星"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_165",
+    "target": "SILAS",
+    "text": "太陽系中距離太陽最遠的八大行星是哪一顆？",
+    "options": [
+      "海王星",
+      "天王星",
+      "土星",
+      "冥王星"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_166",
+    "target": "SILAS",
+    "text": "水在什麼溫度下開始沸騰變為水蒸氣（在標準大氣壓下）？",
+    "options": [
+      "100℃",
+      "0℃",
+      "50℃",
+      "80℃"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_167",
+    "target": "SILAS",
+    "text": "當水凝固成冰時，體積通常會如何變化？",
+    "options": [
+      "變大",
+      "變小",
+      "不變",
+      "消失"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_168",
+    "target": "SILAS",
+    "text": "植物葉片主要功能除了蒸散作用外，最主要進行什麼生理作用製造養分？",
+    "options": [
+      "光合作用",
+      "呼吸作用",
+      "吸收作用",
+      "消化作用"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_169",
+    "target": "SILAS",
+    "text": "磁鐵磁力最強的地方是在磁鐵的什麼部位？",
+    "options": [
+      "兩極(N極與S極)",
+      "中間",
+      "表面",
+      "裡面"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_170",
+    "target": "SILAS",
+    "text": "將一條條形磁鐵從中間切斷成兩截，切斷後的每一截磁鐵有幾個極？",
+    "options": [
+      "仍然各有2個極(N極與S極)",
+      "只剩1個極",
+      "沒有極性",
+      "變成4個極"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_171",
+    "target": "SILAS",
+    "text": "指南針的指針是由什麼材料製成的？",
+    "options": [
+      "磁鐵/磁化金屬",
+      "銅",
+      "塑膠",
+      "木頭"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_172",
+    "target": "SILAS",
+    "text": "台灣位於哪一個大洲的東亞地區？",
+    "options": [
+      "亞洲",
+      "歐洲",
+      "美洲",
+      "大洋洲"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_173",
+    "target": "SILAS",
+    "text": "台灣島形狀常被比喻為什麼水果？",
+    "options": [
+      "番薯 (紅薯)",
+      "香蕉",
+      "蘋果",
+      "木瓜"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_174",
+    "target": "SILAS",
+    "text": "台灣的氣候跨越了哪兩種氣候帶？",
+    "options": [
+      "副熱帶與熱帶",
+      "溫帶與寒帶",
+      "寒帶與極地",
+      "熱帶與赤道"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_175",
+    "target": "SILAS",
+    "text": "台灣盛產的水果種類豐富，因此常被稱為哪個美譽？",
+    "options": [
+      "水果王國",
+      "花卉王國",
+      "蝴蝶王國",
+      "高山王國"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_176",
+    "target": "SILAS",
+    "text": "台灣早期因蝴蝶種類繁多且美麗，曾享有哪個美稱？",
+    "options": [
+      "蝴蝶王國",
+      "鳥類天堂",
+      "昆蟲島",
+      "珊瑚島"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_177",
+    "target": "SILAS",
+    "text": "台灣最高的山脈是哪一個山脈？",
+    "options": [
+      "玉山山脈",
+      "中央山脈",
+      "雪山山脈",
+      "阿里山山脈"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_178",
+    "target": "SILAS",
+    "text": "貫穿台灣南北、被稱為「台灣屋脊」的山脈是哪一個？",
+    "options": [
+      "中央山脈",
+      "玉山山脈",
+      "雪山山脈",
+      "海岸山脈"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_179",
+    "target": "SILAS",
+    "text": "位於台灣東部、以陡峭斷崖與美麗太平洋海景著稱的斷崖是哪個？",
+    "options": [
+      "清水斷崖",
+      "鵝鑾鼻",
+      "貓鼻頭",
+      "野柳"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_180",
+    "target": "SILAS",
+    "text": "台灣野柳地質公園最著名的奇石地貌是什麼？",
+    "options": [
+      "女王頭",
+      "燭台石",
+      "仙女鞋",
+      "豆腐岩"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_181",
+    "target": "SILAS",
+    "text": "成語「熟能生巧」的意思是什麼？",
+    "options": [
+      "事情做熟練了就能掌握技巧",
+      "做事要靈巧",
+      "生疏了就會靈巧",
+      "巧合的事情經常發生"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_182",
+    "target": "SILAS",
+    "text": "成語「一箭雙雕」比喻什麼？",
+    "options": [
+      "做一件事同時達到兩種目的",
+      "射箭技術很好",
+      "保護雕鳥",
+      "用兩把箭射一隻鳥"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_183",
+    "target": "SILAS",
+    "text": "成語「手舞足蹈」常用來形容什麼樣的心情？",
+    "options": [
+      "極度高興或歡喜",
+      "非常生氣",
+      "感到悲傷",
+      "非常害怕"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_184",
+    "target": "SILAS",
+    "text": "成語「雪中送炭」比喻什麼樣的行為？",
+    "options": [
+      "在別人困難時給予及時的幫助",
+      "在冬天烤火",
+      "給別人送禮物",
+      "在下雪時送炭火"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_185",
+    "target": "SILAS",
+    "text": "成語「水滴石穿」告訴我們什麼道理？",
+    "options": [
+      "只要持之以恆微小的力量也能成就大事",
+      "水滴非常有力",
+      "石頭很容易破",
+      "水滴能穿透一切"
+    ],
+    "correctIndex": 0,
+    "category": "小三成語"
+  },
+  {
+    "id": "g3_186",
+    "target": "SILAS",
+    "text": "一打鉛筆有 12 支，9 打共有幾支？",
+    "options": [
+      "108支",
+      "96支",
+      "120支",
+      "84支"
+    ],
+    "correctIndex": 0,
+    "category": "小三乘法"
+  },
+  {
+    "id": "g3_187",
+    "target": "SILAS",
+    "text": "一箱蘋果有 48 個，裝成 6 袋，平均每袋有幾個？",
+    "options": [
+      "8個",
+      "7個",
+      "9個",
+      "6個"
+    ],
+    "correctIndex": 0,
+    "category": "小三除法"
+  },
+  {
+    "id": "g3_188",
+    "target": "SILAS",
+    "text": "長方形周長是 36 公分，寬是 6 公分，長是多少公分？",
+    "options": [
+      "12公分",
+      "18公分",
+      "24公分",
+      "15公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何"
+  },
+  {
+    "id": "g3_189",
+    "target": "SILAS",
+    "text": "正方形邊長是 15 公分，請問周長是多少？",
+    "options": [
+      "60公分",
+      "45公分",
+      "30公分",
+      "225公分"
+    ],
+    "correctIndex": 0,
+    "category": "小三幾何"
+  },
+  {
+    "id": "g3_190",
+    "target": "SILAS",
+    "text": "3 小時 45 分鐘等於多少分鐘？",
+    "options": [
+      "225分鐘",
+      "205分鐘",
+      "245分鐘",
+      "185分鐘"
+    ],
+    "correctIndex": 0,
+    "category": "小三時間換算"
+  },
+  {
+    "id": "g3_191",
+    "target": "SILAS",
+    "text": "5 公斤 80 公克等於多少公克？",
+    "options": [
+      "5080公克",
+      "5800公克",
+      "508公克",
+      "580公克"
+    ],
+    "correctIndex": 0,
+    "category": "小三重量換算"
+  },
+  {
+    "id": "g3_192",
+    "target": "SILAS",
+    "text": "7 公升 50 毫升等於多少毫升？",
+    "options": [
+      "7050毫升",
+      "7500毫升",
+      "750毫升",
+      "705毫升"
+    ],
+    "correctIndex": 0,
+    "category": "小三容量換算"
+  },
+  {
+    "id": "g3_193",
+    "target": "SILAS",
+    "text": "英文單字「Department store」是指什麼地方？",
+    "options": [
+      "百貨公司",
+      "便利商店",
+      "超級市場",
+      "雜貨店"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_194",
+    "target": "SILAS",
+    "text": "英文單字「Police station」是指什麼地方？",
+    "options": [
+      "警察局",
+      "消防局",
+      "郵局",
+      "加油站"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_195",
+    "target": "SILAS",
+    "text": "英文單字「Gas station」是指什麼地方？",
+    "options": [
+      "加油站",
+      "公車站",
+      "火車站",
+      "捷運站"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_196",
+    "target": "SILAS",
+    "text": "英文單字「Engineer」是指什麼職業？",
+    "options": [
+      "工程師",
+      "建築師",
+      "技師",
+      "科學家"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_197",
+    "target": "SILAS",
+    "text": "英文單字「Scientist」是指什麼職業？",
+    "options": [
+      "科學家",
+      "教授",
+      "發明家",
+      "研究員"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_198",
+    "target": "SILAS",
+    "text": "英文單字「Astronaut」是指什麼職業？",
+    "options": [
+      "太空人",
+      "飛行員",
+      "天文學家",
+      "水手"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文"
+  },
+  {
+    "id": "g3_199",
+    "target": "SILAS",
+    "text": "英文問句「What would you like to eat?」是什麼意思？",
+    "options": [
+      "你想吃什麼？",
+      "你喜歡吃什麼？",
+      "你吃飽了嗎？",
+      "你要做飯嗎？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_200",
+    "target": "SILAS",
+    "text": "英文問句「How much is it?」是什麼意思？",
+    "options": [
+      "這個多少錢？",
+      "這個有多少個？",
+      "這個有多重？",
+      "這個有多大？"
+    ],
+    "correctIndex": 0,
+    "category": "小三英文會話"
+  },
+  {
+    "id": "g3_201",
+    "target": "SILAS",
+    "text": "植物根部除了吸收水分外，還有什麼固著作用？",
+    "options": [
+      "將植物固定在土壤中",
+      "吸收陽光",
+      "製造養分",
+      "吸引昆蟲"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_202",
+    "target": "SILAS",
+    "text": "植物莖的主要功能是什麼？",
+    "options": [
+      "輸送水分與養分並支持植物體",
+      "進行光合作用",
+      "吸收土壤水分",
+      "開花結果"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_203",
+    "target": "SILAS",
+    "text": "將鐵釘靠近磁鐵時會被吸引，這是因為鐵釘是什麼材質？",
+    "options": [
+      "鐵磁性材料",
+      "銅材料",
+      "鋁材料",
+      "木質材料"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_204",
+    "target": "SILAS",
+    "text": "下列哪種金屬不能被一般磁鐵吸引？",
+    "options": [
+      "銅",
+      "鐵",
+      "鎳",
+      "鈷"
+    ],
+    "correctIndex": 0,
+    "category": "小三自然科學"
+  },
+  {
+    "id": "g3_205",
+    "target": "SILAS",
+    "text": "台灣最大的島嶼是哪一個？",
+    "options": [
+      "台灣本島",
+      "澎湖本島",
+      "蘭嶼",
+      "綠島"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_206",
+    "target": "SILAS",
+    "text": "位於台灣西南方、以玄武岩地質與雙心石滬聞名的離島縣是哪個？",
+    "options": [
+      "澎湖縣",
+      "金門縣",
+      "連江縣(馬祖)",
+      "綠島"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_207",
+    "target": "SILAS",
+    "text": "以戰地文化、貢糖與鋼刀聞名的離島是哪一個？",
+    "options": [
+      "金門",
+      "馬祖",
+      "澎湖",
+      "蘭嶼"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  },
+  {
+    "id": "g3_208",
+    "target": "SILAS",
+    "text": "以藍眼淚自然景觀與黑嘴端鳳頭燕鷗聞名的離島是哪一個？",
+    "options": [
+      "馬祖",
+      "金門",
+      "澎湖",
+      "綠島"
+    ],
+    "correctIndex": 0,
+    "category": "小三地理"
+  }
+]
